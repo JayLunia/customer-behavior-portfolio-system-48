@@ -1,0 +1,37 @@
+[
+  {
+    "name": "the-nishkc/DATA-VISUALIZATION",
+    "url": "https://github.com/the-nishkc/DATA-VISUALIZATION",
+    "description": "A complete Supermarket Sales Analytics project using Python (Matplotlib, Seaborn, Plotly) and Tableau. Includes data cleaning, interactive visualizations, KPI dashboards, and business insights to analyze sales trends, customer behavior, product performance, and revenue.",
+    "stars": 2,
+    "license": "NOASSERTION"
+  },
+  {
+    "name": "ssbalaji543/Retail-sales-analyze-project",
+    "url": "https://github.com/ssbalaji543/Retail-sales-analyze-project",
+    "description": "This project is an end-to-end retail sales analytics workflow created using uncleaned real-world retail data. The main objective was to clean messy raw data, prepare it for analysis, build meaningful KPIs using SQL, and create an interactive Power BI dashboard that provides insights into customer behavior, sales performance, and product trends.",
+    "stars": 2,
+    "license": "NOASSERTION"
+  },
+  {
+    "name": "mahoorifatemeh-byte/Customer_Behavior_Analysis",
+    "url": "https://github.com/mahoorifatemeh-byte/Customer_Behavior_Analysis",
+    "description": "End-to-end customer analytics project: data cleaning, ETL, and a Power BI dashboard for business insights.",
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "name": "Sohom-2005/Customer-Behavior-Analysis",
+    "url": "https://github.com/Sohom-2005/Customer-Behavior-Analysis",
+    "description": "An end to end data analytics project using Python (Pandas), PostgreSQL, SQL, and Power BI to analyze customer shopping behavior, purchasing patterns, customer segmentation, product performance, and revenue trends through data cleaning, SQL analysis, and interactive dashboard visualization.",
+    "stars": 1,
+    "license": "NOASSERTION"
+  },
+  {
+    "name": "Ashish0016op/Consumer-Shopping-Behavior-Analysis-Dashboard",
+    "url": "https://github.com/Ashish0016op/Consumer-Shopping-Behavior-Analysis-Dashboard",
+    "description": "An interactive analytics dashboard that uncovers key insights into consumer shopping behavior. Built using Streamlit and Power BI, this project visualizes trends, KPIs, customer segmentation, and sales performance\u2014empowering data-driven business decisions.",
+    "stars": 1,
+    "license": "NOASSERTION"
+  }
+]
